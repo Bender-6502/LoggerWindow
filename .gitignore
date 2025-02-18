@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LoggerWindow/x64
+/LoggerWindow/x86
+/TestHarness/x64
+/TestHarness/x86
+/x64
+/x86
+*.log
+*.txt
+*.db
